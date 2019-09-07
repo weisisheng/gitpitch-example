@@ -1,6 +1,6 @@
 theme : template
 
-theme-background : [ "linear-gradient(to top, #1c1e20, #2193b0)" ]
+theme-background : [ "linear-gradient(to top, #1c1e20, #0066FF)" ]
 theme-headline   : [ "Ubuntu", "white", "none" ]
 theme-byline     : [ "Ubuntu", "black", "none" ]
 theme-text       : [ "Raleway", "#F5FFFA", "none" ]
